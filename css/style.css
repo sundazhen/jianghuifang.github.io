@@ -658,7 +658,7 @@ img.zoom-img {
 }
 /*--friends--*/
 .friends{
-    background: url(../images/friends.jpg) no-repeat center top;
+    background: url(../images/friends03.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -705,7 +705,7 @@ img.zoom-img {
 }
 /*--rsvp--*/
 .attend {
-    background: url(../images/bg.jpg)no-repeat 0px 0px;
+    background: url(../images/bg1.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
